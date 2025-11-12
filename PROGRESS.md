@@ -2,6 +2,10 @@
 
 
 
+---
+
+
+
 \## Phase 1: pfSense ✅
 
 
@@ -148,6 +152,8 @@
 
 \*\*Planned\*\*
 
+
+
 ---
 
 
@@ -165,6 +171,8 @@
 \### Issue 2: No access to Security Onion web interface
 
 \*\*Solution\*\*: Ongoing troubleshooting
+
+
 
 ---
 

@@ -31,6 +31,10 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
+---
+
+
+
 \## 📊 Current Status
 
 
@@ -55,6 +59,10 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
+---
+
+
+
 \## 🛠 Technologies Used
 
 
@@ -68,6 +76,10 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 \- \*\*Wazuh\*\* - Endpoint detection, log analysis and response
 
 \- \*\*VirtualBox\*\* - Hypervisor for lab VMs
+
+
+
+---
 
 
 
