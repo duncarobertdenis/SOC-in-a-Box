@@ -87,9 +87,9 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-\## 🗂️ GitHub Repository Structure
+## 🗂️ GitHub Repository Structure
 
 
 
-\# 📫 Connect: https://www.linkedin.com/in/robert-denis-dunca
+# 📫 Connect: https://www.linkedin.com/in/robert-denis-dunca
 
