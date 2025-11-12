@@ -1,4 +1,4 @@
-\# 📈 Project Progress Tracking
+# 📈 Project Progress Tracking
 
 
 
@@ -6,65 +6,33 @@
 
 
 
-\## Phase 1: pfSense ✅
+## Phase 1: pfSense ✅
 
 
 
-\- \[x] pfSense VM deployed and booted
+- [x] pfSense VM deployed and booted
 
-\- \[x] Network interfaces configured (WAN, LAN, Management)
+- [x] Network interfaces configured (WAN, LAN, Management)
 
-\- \[x] Access pfSense Web Interface
+- [x] Access pfSense Web Interface
 
-\- \[x] Change Default Admin Password
+- [x] Change Default Admin Password
 
-\- \[x] DHCP server enabled for lab network
+- [x] DHCP server enabled for lab network
 
-\- \[x] SSH access working
+- [x] SSH access working
 
-\- \[x] Firewall Rules Setup
+- [x] Firewall Rules Setup
 
-\- \[x] Enable Logging and Packet Capture
+- [x] Enable Logging and Packet Capture
 
-\- \[x] Kali Linux VM deployed and network connected
+- [x] Kali Linux VM deployed and network connected
 
-\- \[x] Internet connectivity verified through pfSense
-
-
-
-\*\*Completed\*\*
+- [x] Internet connectivity verified through pfSense
 
 
 
----
-
-
-
-\## Phase 2: Security Onion 🔄
-
-
-
-\- \[x] Download Security Onion ISO and verify checksum
-
-\- \[x] Create Security Onion VM with proper specs (16GB RAM, 4 CPU and dual NIC)
-
-\- \[x] Install Security Onion in standalone mode
-
-\- \[x] Run so-setup and configure management interface
-
-\- \[ ] Configure Suricata with default rules
-
-\- \[ ] Test alert generation with EICAR file
-
-\- \[ ] Install Splunk Universal Forwarder
-
-\- \[ ] Verify logs flowing to Splunk
-
-\- \[ ] Document any issues faced
-
-
-
-\*\*In Progress\*\*
+**Completed**
 
 
 
@@ -72,7 +40,39 @@
 
 
 
-\## Phase 3: Splunk SIEM ⏳
+## Phase 2: Security Onion 🔄
+
+
+
+- [x] Download Security Onion ISO and verify checksum
+
+- [x] Create Security Onion VM with proper specs (16GB RAM, 4 CPU and dual NIC)
+
+- [x] Install Security Onion in standalone mode
+
+- [x] Run so-setup and configure management interface
+
+- [ ] Configure Suricata with default rules
+
+- [ ] Test alert generation with EICAR file
+
+- [ ] Install Splunk Universal Forwarder
+
+- [ ] Verify logs flowing to Splunk
+
+- [ ] Document any issues faced
+
+
+
+**In Progress**
+
+
+
+---
+
+
+
+## Phase 3: Splunk SIEM ⏳
 
 
 
