@@ -1,12 +1,8 @@
-\# 🧩 \*\*SOC-in-a-Box Project\*\*
-
-\*\*Author:\*\* Dunca Robert-Denis
-
-\*\*Date:\*\* November 2025
-
-\*\*Environment:\*\* Integrated setup (pfSense Firewall, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation)
-
-\*\*Purpose:\*\* Simulate a complete SOC workflow to detect, analyze, and respond to threats
+# 🧩 **SOC-in-a-Box Project**
+**Author:** Dunca Robert-Denis
+**Date:** November 2025
+**Environment:** Integrated setup (pfSense Firewall, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation).
+**Purpose:** Simulate a complete SOC workflow to detect, analyze, and respond to threats
 
 
 
