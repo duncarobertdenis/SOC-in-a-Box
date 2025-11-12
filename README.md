@@ -4,19 +4,11 @@
 **Environment:** Integrated setup (pfSense Firewall, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation)
 **Purpose:** Simulate a complete SOC workflow to detect, analyze, and respond to threats.
 
-
-
 ---
-
-
 
 ## 🎯 Project Overview
 
-
-
 A realistic SOC environment built in VirtualBox where I'm learning to:
-
-
 
 - Perimeter/flow logging (pfSense)
 
