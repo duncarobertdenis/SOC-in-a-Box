@@ -55,15 +55,15 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-- \*\*pfSense\*\* - Network perimeter firewall and router
+- **pfSense** - Network perimeter firewall and router
 
-- \*\*Security Onion\*\* - Network security monitoring with Suricata IDS/IPS
+- **Security Onion** - Network security monitoring with Suricata IDS/IPS
 
-- \*\*Splunk\*\* - SIEM for centralized log correlation and dashboards
+- **Splunk** - SIEM for centralized log correlation and dashboards
 
-- \*\*Wazuh\*\* - Endpoint detection, log analysis and response
+- **Wazuh** - Endpoint detection, log analysis and response
 
-- \*\*VirtualBox\*\* - Hypervisor for lab VMs
+- **VirtualBox** - Hypervisor for lab VMs
 
 
 
