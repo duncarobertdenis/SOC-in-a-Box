@@ -206,7 +206,7 @@
 
 
 
-\*\*Last Updated\*\*: 12.11.2025 
+\*\*Last Updated\*\*: 12.11.2025
 
 \*\*Overall Completion\*\*: ~30%
 
