@@ -76,53 +76,25 @@
 
 
 
-\- \[ ] Deploy Splunk server VM
+- [ ] Deploy Splunk server VM
 
-\- \[ ] Apply for Splunk Developer license (50GB/day)
+- [ ] Apply for Splunk Developer license (50GB/day)
 
-\- \[ ] Configure pfSense syslog forwarding
+- [ ] Configure pfSense syslog forwarding
 
-\- \[ ] Create Splunk indexes (firewall, securityonion, wazuh)
+- [ ] Create Splunk indexes (firewall, securityonion, wazuh)
 
-\- \[ ] Test log ingestion from pfSense
+- [ ] Test log ingestion from pfSense
 
-\- \[ ] Test log ingestion from Security Onion
+- [ ] Test log ingestion from Security Onion
 
-\- \[ ] Create basic dashboard
+- [ ] Create basic dashboard
 
-\- \[ ] Create test alerts
-
-
-
-\*\*Planned\*\*
+- [ ] Create test alerts
 
 
 
----
-
-
-
-\## Phase 4: Endpoint Security ⏳
-
-
-
-\- \[ ] Deploy Wazuh Manager VM
-
-\- \[ ] Run Wazuh installation script
-
-\- \[ ] Deploy Wazuh agent to Windows VM
-
-\- \[ ] Verify agent connectivity
-
-\- \[ ] Install Splunk UF on Wazuh Manager
-
-\- \[ ] Test Wazuh alert ingestion in Splunk
-
-\- \[ ] Configure basic active response rule
-
-
-
-\*\*Planned\*\*
+**Planned**
 
 
 
@@ -130,27 +102,55 @@
 
 
 
-\## Phase 5: Advanced Features ⏳
+## Phase 4: Endpoint Security ⏳
 
 
 
-\- \[ ] Add SPAN port configuration (traffic mirroring)
+- [ ] Deploy Wazuh Manager VM
 
-\- \[ ] Tune Suricata with real traffic
+- [ ] Run Wazuh installation script
 
-\- \[ ] Create correlation rules in Splunk
+- [ ] Deploy Wazuh agent to Windows VM
 
-\- \[ ] Build comprehensive dashboards
+- [ ] Verify agent connectivity
 
-\- \[ ] Test incident response workflows
+- [ ] Install Splunk UF on Wazuh Manager
 
-\- \[ ] Simulate attack scenarios
+- [ ] Test Wazuh alert ingestion in Splunk
 
-\- \[ ] Document lessons learned
+- [ ] Configure basic active response rule
 
 
 
-\*\*Planned\*\*
+**Planned**
+
+
+
+---
+
+
+
+## Phase 5: Advanced Features ⏳
+
+
+
+- [ ] Add SPAN port configuration (traffic mirroring)
+
+- [ ] Tune Suricata with real traffic
+
+- [ ] Create correlation rules in Splunk
+
+- [ ] Build comprehensive dashboards
+
+- [ ] Test incident response workflows
+
+- [ ] Simulate attack scenarios
+
+- [ ] Document lessons learned
+
+
+
+**Planned**
 
 
 
