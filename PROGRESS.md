@@ -158,37 +158,19 @@
 
 
 
-\## Issues \& Solutions Discovered
+## Issues & Solutions Discovered
 
 
 
-\### Issue 1: pfSense DHCP not assigning IPs
+### Issue 1: pfSense DHCP not assigning IPs
 
-\*\*Solution\*\*: Checked firewall rules, added pass rule for LAN traffic
-
-
-
-\### Issue 2: No access to Security Onion web interface
-
-\*\*Solution\*\*: Ongoing troubleshooting
+**Solution**: Checked firewall rules, added pass rule for LAN traffic
 
 
 
----
+### Issue 2: No access to Security Onion web interface
 
-
-
-\## Key Learnings
-
-
-
-1\. VirtualBox promiscuous mode is critical for traffic mirroring
-
-2\. DHCP pool must not overlap with static IPs
-
-3\. Always document network settings (IPs, ports, credentials)
-
-4\. Test connectivity after each major configuration change
+**Solution**: Ongoing troubleshooting
 
 
 
@@ -196,17 +178,17 @@
 
 
 
-\## Next Steps
+## Key Learnings
 
 
 
-1\. Complete Security Onion installation (current phase)
+1. VirtualBox promiscuous mode is critical for traffic mirroring
 
-2\. Validate traffic generation with ping/curl
+2. DHCP pool must not overlap with static IPs
 
-3\. Move to Splunk deployment
+3. Always document network settings (IPs, ports, credentials)
 
-4\. Test all integrations before advanced features
+4. Test connectivity after each major configuration change
 
 
 
@@ -214,7 +196,25 @@
 
 
 
-\*\*Last Updated\*\*: 12.11.2025
+## Next Steps
 
-\*\*Overall Completion\*\*: ~30%
+
+
+1. Complete Security Onion installation (current phase)
+
+2. Validate traffic generation with ping/curl
+
+3. Move to Splunk deployment
+
+4. Test all integrations before advanced features
+
+
+
+---
+
+
+
+**Last Updated**: 12.11.2025
+
+**Overall Completion**: ~30%
 
