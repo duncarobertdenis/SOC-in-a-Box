@@ -75,11 +75,11 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-- \*\*\[Architecture Overview](docs/ARCHITECTURE.md)\*\* - How components work together
+- **[Architecture Overview](docs/ARCHITECTURE.md)** - How components work together
 
-- \*\*\[Network Setup](docs/NETWORK\_SETUP.md)\*\* - IPs, interfaces, network design
+- **[Network Setup](docs/NETWORK\_SETUP.md)** - IPs, interfaces, network design
 
-- \*\*\[Troubleshooting](docs/TROUBLESHOOTING.md)\*\* - Common problems \& solutions
+- **[Troubleshooting](docs/TROUBLESHOOTING.md)** - Common problems \& solutions
 
 
 
