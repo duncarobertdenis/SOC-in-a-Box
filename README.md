@@ -1,5 +1,4 @@
 # 🧩 **SOC-in-a-Box Project**
-
 **Author:** Dunca Robert-Denis
 **Date:** November 2025
 **Environment:** Integrated setup (pfSense Firewall, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation).
@@ -11,7 +10,7 @@
 
 
 
-\## 🎯 Project Overview
+## 🎯 Project Overview
 
 
 
@@ -19,15 +18,15 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-\- Perimeter/flow logging (pfSense)
+- Perimeter/flow logging (pfSense)
 
-\- Monitor network traffic for threats (Security Onion)
+- Monitor network traffic for threats (Security Onion)
 
-\- Track endpoint activity (Wazuh)
+- Track endpoint activity (Wazuh)
 
-\- Aggregate and analyze logs (Splunk SIEM)
+- Aggregate and analyze logs (Splunk SIEM)
 
-\- Respond to security incidents
+- Respond to security incidents
 
 
 
@@ -35,7 +34,7 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-\## 📊 Current Status
+## 📊 Current Status
 
 
 
@@ -63,19 +62,19 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-\## 🛠 Technologies Used
+## 🛠 Technologies Used
 
 
 
-\- \*\*pfSense\*\* - Network perimeter firewall and router
+- \*\*pfSense\*\* - Network perimeter firewall and router
 
-\- \*\*Security Onion\*\* - Network security monitoring with Suricata IDS/IPS
+- \*\*Security Onion\*\* - Network security monitoring with Suricata IDS/IPS
 
-\- \*\*Splunk\*\* - SIEM for centralized log correlation and dashboards
+- \*\*Splunk\*\* - SIEM for centralized log correlation and dashboards
 
-\- \*\*Wazuh\*\* - Endpoint detection, log analysis and response
+- \*\*Wazuh\*\* - Endpoint detection, log analysis and response
 
-\- \*\*VirtualBox\*\* - Hypervisor for lab VMs
+- \*\*VirtualBox\*\* - Hypervisor for lab VMs
 
 
 
@@ -83,15 +82,15 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-\## 📚 Documentation
+## 📚 Documentation
 
 
 
-\- \*\*\[Architecture Overview](docs/ARCHITECTURE.md)\*\* - How components work together
+- \*\*\[Architecture Overview](docs/ARCHITECTURE.md)\*\* - How components work together
 
-\- \*\*\[Network Setup](docs/NETWORK\_SETUP.md)\*\* - IPs, interfaces, network design
+- \*\*\[Network Setup](docs/NETWORK\_SETUP.md)\*\* - IPs, interfaces, network design
 
-\- \*\*\[Troubleshooting](docs/TROUBLESHOOTING.md)\*\* - Common problems \& solutions
+- \*\*\[Troubleshooting](docs/TROUBLESHOOTING.md)\*\* - Common problems \& solutions
 
 
 
