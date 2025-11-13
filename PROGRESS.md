@@ -8,7 +8,7 @@
 
 ## Phase 1: pfSense ✅
 
-
+ 
 
 - [x] pfSense VM deployed and booted
 
