@@ -170,7 +170,7 @@
 
 ### Issue 2: No access to Security Onion web interface
 
-**Solution**: Ongoing troubleshooting
+**Solution**: Changed Security Onion VM network adapter from NAT to NATNetwork, and used a Kali Linux VM (with the same network addapter and in the same subnet) to enable direct HTTPS access via the NatNetwork subnet without port forwarding complexity.
 
 
 
