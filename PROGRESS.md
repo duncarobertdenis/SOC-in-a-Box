@@ -52,7 +52,7 @@
 
 - [x] Run so-setup and configure management interface
 
-- [ ] Configure Suricata with default rules
+- [x] Configure Suricata with default rules
 
 - [ ] Test alert generation with EICAR file
 
