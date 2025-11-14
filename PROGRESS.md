@@ -60,7 +60,6 @@
 
 - [ ] Verify logs flowing to Splunk
 
-- [ ] Document any issues faced
 
 
 
