@@ -52,6 +52,8 @@
 
 - [x] Run so-setup and configure management interface
 
+- [x] Established controlled SSH access to the SO VM through VirtualBox port forwarding
+
 - [x] Configure Suricata with default rules
 
 - [ ] Test alert generation with EICAR file
