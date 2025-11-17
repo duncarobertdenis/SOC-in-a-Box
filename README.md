@@ -36,14 +36,14 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 | Phase | Component | Status | Completion |
 |-------|-----------|--------|-----------|
 | 1 | pfSense | ✅ Complete | 100% |
-| 2 | Security Onion | 🔄 In Progress | 60% |
+| 2 | Security Onion | 🔄 In Progress | 85% |
 | 3 | Splunk SIEM | ⏳ Planned | 0% |
 | 4 | Wazuh EDR | ⏳ Planned | 0% |
 | 5 | Incident Response | ⏳ Planned | 0% |
 
 
 
-**Last Updated**: 12/11/2025
+**Last Updated**: 17/11/2025
 
 
 
