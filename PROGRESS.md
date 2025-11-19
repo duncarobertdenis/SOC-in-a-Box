@@ -56,7 +56,7 @@
 
 - [x] Configure Suricata with default rules
 
-- [ ] Test alert generation with EICAR file
+- [x] Test alert generation with EICAR file
 
 - [ ] Install Splunk Universal Forwarder
 
@@ -201,9 +201,9 @@
 
 
 
-1. Complete Security Onion installation (current phase)
+1. Complete Security Onion installation
 
-2. Validate traffic generation with ping/curl
+2. Validate traffic generation with ping/curl (current phase)
 
 3. Move to Splunk deployment
 
@@ -215,7 +215,7 @@
 
 
 
-**Last Updated**: 17.11.2025
+**Last Updated**: 19.11.2025
 
 **Overall Completion**: ~30%
 
