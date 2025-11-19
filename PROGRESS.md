@@ -58,10 +58,6 @@
 
 - [x] Test alert generation with EICAR file
 
-- [ ] Install Splunk Universal Forwarder
-
-- [ ] Verify logs flowing to Splunk
-
 
 
 
