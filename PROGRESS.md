@@ -75,7 +75,7 @@
 
 
 
-- [ ] Deploy Splunk server VM
+- [x] Deploy Splunk server VM
 
 - [ ] Apply for Splunk Developer license (50GB/day)
 
@@ -213,7 +213,7 @@
 
 
 
-**Last Updated**: 19.11.2025
+**Last Updated**: 20.11.2025
 
 **Overall Completion**: ~30%
 
