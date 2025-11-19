@@ -56,6 +56,8 @@
 
 - [x] Configure Suricata with default rules
 
+- [x] Validating traffic mirroring with tcpdump
+
 - [x] Test alert generation with EICAR file
 
 
