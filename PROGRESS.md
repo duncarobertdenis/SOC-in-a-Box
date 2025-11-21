@@ -77,7 +77,7 @@
 
 - [x] Deploy Splunk server VM
 
-- [ ] Apply for Splunk Developer license (50GB/day)
+- [x] Apply for Splunk Developer license
 
 - [ ] Configure pfSense syslog forwarding
 
@@ -213,7 +213,7 @@
 
 
 
-**Last Updated**: 20.11.2025
+**Last Updated**: 21.11.2025
 
 **Overall Completion**: ~30%
 
