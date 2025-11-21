@@ -40,7 +40,7 @@
 
 
 
-## Phase 2: Security Onion 🔄
+## Phase 2: Security Onion ✅
 
 
 
@@ -52,19 +52,18 @@
 
 - [x] Run so-setup and configure management interface
 
-- [ ] Configure Suricata with default rules
+- [x] Established controlled SSH access to the SO VM through VirtualBox port forwarding
 
-- [ ] Test alert generation with EICAR file
+- [x] Configure Suricata with default rules
 
-- [ ] Install Splunk Universal Forwarder
+- [x] Validating traffic mirroring with tcpdump
 
-- [ ] Verify logs flowing to Splunk
-
-- [ ] Document any issues faced
+- [x] Test alert generation with EICAR file
 
 
 
-**In Progress**
+
+**Completed**
 
 
 
@@ -72,11 +71,11 @@
 
 
 
-## Phase 3: Splunk SIEM ⏳
+## Phase 3: Splunk SIEM 🔄
 
 
 
-- [ ] Deploy Splunk server VM
+- [x] Deploy Splunk server VM
 
 - [ ] Apply for Splunk Developer license (50GB/day)
 
@@ -94,7 +93,7 @@
 
 
 
-**Planned**
+**In Progress**
 
 
 
@@ -170,7 +169,7 @@
 
 ### Issue 2: No access to Security Onion web interface
 
-**Solution**: Ongoing troubleshooting
+**Solution**: Changed Security Onion VM network adapter from NAT to NATNetwork, and used a Kali Linux VM (with the same network adapter and in the same subnet) to enable direct HTTPS access via the NatNetwork subnet without port forwarding complexity.
 
 
 
@@ -200,11 +199,11 @@
 
 
 
-1. Complete Security Onion installation (current phase)
+1. Complete Security Onion installation
 
 2. Validate traffic generation with ping/curl
 
-3. Move to Splunk deployment
+3. Move to Splunk deployment (current phase)
 
 4. Test all integrations before advanced features
 
@@ -214,7 +213,7 @@
 
 
 
-**Last Updated**: 12.11.2025
+**Last Updated**: 20.11.2025
 
 **Overall Completion**: ~30%
 
