@@ -79,7 +79,7 @@
 
 - [x] Apply for Splunk Developer license
 
-- [ ] Configure pfSense syslog forwarding
+- [x] Configure pfSense syslog forwarding
 
 - [ ] Create Splunk indexes (firewall, securityonion, wazuh)
 
