@@ -81,7 +81,7 @@
 
 - [x] Configure pfSense syslog forwarding
 
-- [ ] Create Splunk indexes (firewall, securityonion, wazuh)
+- [x] Create Splunk indexes (firewall, securityonion, wazuh)
 
 - [ ] Test log ingestion from pfSense
 
@@ -213,7 +213,7 @@
 
 
 
-**Last Updated**: 22.11.2025
+**Last Updated**: 24.11.2025
 
-**Overall Completion**: ~30%
+**Overall Completion**: ~40%
 
