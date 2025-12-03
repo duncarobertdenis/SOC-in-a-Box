@@ -83,7 +83,9 @@
 
 - [x] Create Splunk indexes (firewall, securityonion, wazuh)
 
-- [ ] Test log ingestion from pfSense
+- [x] Test log ingestion from pfSense
+
+- [ ] Configure Security Onion Forwarder
 
 - [ ] Test log ingestion from Security Onion
 
@@ -213,7 +215,7 @@
 
 
 
-**Last Updated**: 24.11.2025
+**Last Updated**: 03.12.2025
 
-**Overall Completion**: ~40%
+**Overall Completion**: ~50%
 
