@@ -77,13 +77,15 @@
 
 - [x] Deploy Splunk server VM
 
-- [ ] Apply for Splunk Developer license (50GB/day)
+- [x] Apply for Splunk Developer license
 
-- [ ] Configure pfSense syslog forwarding
+- [x] Configure pfSense syslog forwarding
 
-- [ ] Create Splunk indexes (firewall, securityonion, wazuh)
+- [x] Create Splunk indexes (firewall, securityonion, wazuh)
 
-- [ ] Test log ingestion from pfSense
+- [x] Test log ingestion from pfSense
+
+- [ ] Configure Security Onion Forwarder
 
 - [ ] Test log ingestion from Security Onion
 
@@ -213,7 +215,7 @@
 
 
 
-**Last Updated**: 20.11.2025
+**Last Updated**: 03.12.2025
 
-**Overall Completion**: ~30%
+**Overall Completion**: ~50%
 
