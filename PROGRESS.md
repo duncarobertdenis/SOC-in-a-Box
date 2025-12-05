@@ -85,9 +85,9 @@
 
 - [x] Test log ingestion from pfSense
 
-- [ ] Configure Security Onion Forwarder
+- [x] Configure Security Onion Forwarder
 
-- [ ] Test log ingestion from Security Onion
+- [x] Test log ingestion from Security Onion
 
 - [ ] Create basic dashboard
 
@@ -215,7 +215,7 @@
 
 
 
-**Last Updated**: 03.12.2025
+**Last Updated**: 06.12.2025
 
-**Overall Completion**: ~50%
+**Overall Completion**: ~75%
 
