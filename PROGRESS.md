@@ -71,7 +71,7 @@
 
 
 
-## Phase 3: Splunk SIEM 🔄
+## Phase 3: Splunk SIEM ✅
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-## Phase 4: Endpoint Security ⏳
+## Phase 4: Endpoint Security 🔄
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-**Planned**
+**In Progress**
 
 
 
