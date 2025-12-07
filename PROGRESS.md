@@ -89,13 +89,12 @@
 
 - [x] Test log ingestion from Security Onion
 
-- [ ] Create basic dashboard
-
-- [ ] Create test alerts
+- [x] Create basic dashboard
 
 
 
-**In Progress**
+
+**Completed**
 
 
 
@@ -215,7 +214,7 @@
 
 
 
-**Last Updated**: 06.12.2025
+**Last Updated**: 07.12.2025
 
-**Overall Completion**: ~75%
+**Overall Completion**: ~80%
 
