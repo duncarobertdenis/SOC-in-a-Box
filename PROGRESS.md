@@ -106,9 +106,9 @@
 
 
 
-- [ ] Deploy Wazuh Manager VM
+- [x] Deploy Wazuh Manager VM
 
-- [ ] Run Wazuh installation script
+- [x] Run Wazuh installation script
 
 - [ ] Deploy Wazuh agent to Windows VM
 
@@ -214,7 +214,7 @@
 
 
 
-**Last Updated**: 07.12.2025
+**Last Updated**: 08.12.2025
 
 **Overall Completion**: ~80%
 
