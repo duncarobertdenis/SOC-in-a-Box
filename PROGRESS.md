@@ -71,7 +71,7 @@
 
 
 
-## Phase 3: Splunk SIEM 🔄
+## Phase 3: Splunk SIEM ✅
 
 
 
@@ -85,17 +85,16 @@
 
 - [x] Test log ingestion from pfSense
 
-- [ ] Configure Security Onion Forwarder
+- [x] Configure Security Onion Forwarder
 
-- [ ] Test log ingestion from Security Onion
+- [x] Test log ingestion from Security Onion
 
-- [ ] Create basic dashboard
-
-- [ ] Create test alerts
+- [x] Create basic dashboard
 
 
 
-**In Progress**
+
+**Completed**
 
 
 
@@ -103,13 +102,13 @@
 
 
 
-## Phase 4: Endpoint Security ⏳
+## Phase 4: Endpoint Security 🔄
 
 
 
-- [ ] Deploy Wazuh Manager VM
+- [x] Deploy Wazuh Manager VM
 
-- [ ] Run Wazuh installation script
+- [x] Run Wazuh installation script
 
 - [ ] Deploy Wazuh agent to Windows VM
 
@@ -123,7 +122,7 @@
 
 
 
-**Planned**
+**In Progress**
 
 
 
@@ -215,7 +214,7 @@
 
 
 
-**Last Updated**: 03.12.2025
+**Last Updated**: 08.12.2025
 
-**Overall Completion**: ~50%
+**Overall Completion**: ~80%
 
