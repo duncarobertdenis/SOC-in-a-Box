@@ -110,9 +110,9 @@
 
 - [x] Run Wazuh installation script
 
-- [ ] Deploy Wazuh agent to Windows VM
+- [x] Deploy Wazuh agent to Windows VM
 
-- [ ] Verify agent connectivity
+- [x] Verify agent connectivity
 
 - [ ] Install Splunk UF on Wazuh Manager
 
@@ -216,5 +216,5 @@
 
 **Last Updated**: 08.12.2025
 
-**Overall Completion**: ~80%
+**Overall Completion**: ~85%
 
