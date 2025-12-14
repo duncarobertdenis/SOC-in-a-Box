@@ -200,13 +200,11 @@
 
 
 
-1. Complete Security Onion installation
+1. Complete Wazuh installation
 
-2. Validate traffic generation with ping/curl
+2. Test Wazuh alert
 
-3. Move to Splunk deployment (current phase)
-
-4. Test all integrations before advanced features
+3. Configure response rule
 
 
 
