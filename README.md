@@ -43,7 +43,7 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 
 
-**Last Updated**: 08/12/2025
+**Last Updated**: 14/12/2025
 
 
 
