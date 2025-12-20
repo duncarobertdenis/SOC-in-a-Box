@@ -102,7 +102,7 @@
 
 
 
-## Phase 4: Endpoint Security 🔄
+## Phase 4: Endpoint Security ✅
 
 
 
@@ -118,11 +118,11 @@
 
 - [x] Test Wazuh alert ingestion in Splunk
 
-- [ ] Configure basic active response rule
+- [x] Configure basic active response rule
 
 
 
-**In Progress**
+**Completed**
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-## Phase 5: Advanced Features ⏳
+## Phase 5: Advanced Features ⏳🔄
 
 
 
