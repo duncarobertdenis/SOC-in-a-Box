@@ -38,8 +38,8 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 | 1 | pfSense | ✅ Complete | 100% |
 | 2 | Security Onion | ✅ Complete | 100% |
 | 3 | Splunk SIEM | ✅ Complete | 100% |
-| 4 | Wazuh EDR | 🔄 In Progress | 90% |
-| 5 | Incident Response | ⏳ Planned | 0% |
+| 4 | Wazuh EDR | ✅ Complete | 100% |
+| 5 | Incident Response | ⏳🔄 Planned | 0% |
 
 
 
