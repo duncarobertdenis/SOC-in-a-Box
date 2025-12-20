@@ -114,9 +114,9 @@
 
 - [x] Verify agent connectivity
 
-- [ ] Install Splunk UF on Wazuh Manager
+- [x] Install Splunk UF on Wazuh Manager
 
-- [ ] Test Wazuh alert ingestion in Splunk
+- [x] Test Wazuh alert ingestion in Splunk
 
 - [ ] Configure basic active response rule
 
@@ -212,7 +212,7 @@
 
 
 
-**Last Updated**: 14.12.2025
+**Last Updated**: 20.12.2025
 
-**Overall Completion**: ~85%
+**Overall Completion**: ~90%
 
