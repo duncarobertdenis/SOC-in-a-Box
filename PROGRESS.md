@@ -173,6 +173,14 @@
 **Solution**: Changed Security Onion VM network adapter from NAT to NATNetwork, and used a Kali Linux VM (with the same network adapter and in the same subnet) to enable direct HTTPS access via the NatNetwork subnet without port forwarding complexity.
 
 
+### Issue 3: pfSense logs not appearing in Splunk
+
+**Solution**: Created UDP data input in Splunk on port 514 with sourcetype syslog and index firewall. Verified pfSense remote logging configuration and restarted services.
+
+
+### Issue 4: Wazuh agent alerts not appearing in Splunk
+
+**Solution**: Reconfigured Splunk Universal Forwarder on Wazuh Manager to monitor /var/ossec/logs/alerts/alerts.json with correct inputs.conf and outputs.conf. Restarted forwarder and Wazuh alerts now flowing to Splunk.
 
 ---
 
