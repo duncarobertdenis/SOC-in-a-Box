@@ -130,7 +130,7 @@
 
 
 
-## Phase 5: Advanced Features ⏳🔄
+## Phase 5: Advanced Features 🔄
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-**Planned**
+**In Progress**
 
 
 
@@ -200,11 +200,11 @@
 
 
 
-1. Complete Wazuh installation
+1. Add SPAN port configuration (traffic mirroring)
 
-2. Test Wazuh alert
+2. Tune Suricata with real traffic
 
-3. Configure response rule
+3. Create correlation rules in Splunk
 
 
 
@@ -212,7 +212,7 @@
 
 
 
-**Last Updated**: 20.12.2025
+**Last Updated**: 21.12.2025
 
 **Overall Completion**: ~90%
 
