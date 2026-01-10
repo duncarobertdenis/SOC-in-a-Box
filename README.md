@@ -5,7 +5,7 @@
  
 **Environment:** Integrated setup (pfSense, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation)
 
-**Purpose:** Simulate a complete SOC workflow to detect, analyze, and respond to threats.
+**Purpose:** Simulate a complete SOC workflow to detect, analyze and respond to threats.
 
 ---
 
