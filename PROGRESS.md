@@ -142,8 +142,6 @@
 
 - [ ] Tested response actions on the device
 
-- [ ] 
-
 
 
 **In Progress**
