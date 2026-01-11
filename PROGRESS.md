@@ -128,21 +128,21 @@
 
 
 
-## Phase 5: Advanced Features 🔄
+## Phase 5: Microsoft Defender 🔄
 
 
 
-- [ ] Tune Suricata with real traffic
+- [x] Access Microsoft Defender XDR portal
 
-- [ ] Create correlation rules in Splunk
+- [x] Onboard Windows VM using local script
 
-- [ ] Build comprehensive dashboards
+- [x] Generate test detections
 
-- [ ] Test incident response workflows
+- [ ] Investigated the generated alert
 
-- [ ] Simulate attack scenarios
+- [ ] Tested response actions on the device
 
-- [ ] Document lessons learned
+- [ ] 
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-## Phase 5: Advanced Features 🔄
+## Phase 5: Advanced Features ⏳
 
 
 
@@ -173,7 +173,7 @@
 
 
 
-**In Progress**
+**Planned**
 
 
 
