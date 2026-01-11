@@ -21,7 +21,7 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 - Aggregate and analyze logs (Splunk SIEM)
 
-- Endpoint security (Microsoft Defender for Endpoint)
+- Prevent, detect, investigate and respond (Microsoft Defender for Endpoint)
 
 - Respond to security incidents
 
