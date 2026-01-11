@@ -134,7 +134,6 @@
 
 
 
-- [ ] Add SPAN port configuration (traffic mirroring)
 
 - [ ] Tune Suricata with real traffic
 
