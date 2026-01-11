@@ -62,7 +62,6 @@
 
 
 
-
 **Completed**
 
 
@@ -90,7 +89,6 @@
 - [x] Test log ingestion from Security Onion
 
 - [x] Create basic dashboard
-
 
 
 
@@ -134,7 +132,6 @@
 
 
 
-
 - [ ] Tune Suricata with real traffic
 
 - [ ] Create correlation rules in Splunk
@@ -181,6 +178,7 @@
 
 
 ---
+
 
 
 ## Issues & Solutions Discovered
