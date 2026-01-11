@@ -21,7 +21,7 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 
 - Aggregate and analyze logs (Splunk SIEM)
 
-- Protect endpoints (Microsoft Defender for Endpoint)
+- Endpoint security (Microsoft Defender for Endpoint)
 
 - Respond to security incidents
 
@@ -41,7 +41,7 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 | 2 | Security Onion | ✅ Complete | 100% |
 | 3 | Splunk SIEM | ✅ Complete | 100% |
 | 4 | Wazuh EDR | ✅ Complete | 100% |
-| 4 | Wazuh EDR | 🔄 In Progress | 50% |
+| 4 | Microsoft Defender | 🔄 In Progress | 50% |
 | 5 | Advanced Features | ⏳ Planned | 0% |
 
 
@@ -65,6 +65,8 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 - **Splunk** - SIEM for centralized log correlation and dashboards
 
 - **Wazuh** - Endpoint detection, log analysis and response
+
+- **Microsoft Defender** - Threat protection, detection, investigation and response
 
 - **VirtualBox** - Hypervisor for lab VMs
 
