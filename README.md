@@ -3,9 +3,9 @@
 
 **Date:** November 2025
  
-**Environment:** Integrated setup (pfSense, Security Onion, Splunk SIEM, Wazuh, Endpoint Client – modular SOC simulation)
+**Environment:** Integrated setup (pfSense, Security Onion, Splunk SIEM, Wazuh, Microsoft Defender, Endpoint Client – modular SOC simulation)
 
-**Purpose:** Simulate a complete SOC workflow to detect, analyze and respond to threats.
+**Purpose:** Simulate a complete SOC workflow to detect, analyze and respond to threats
 
 ---
 
@@ -39,11 +39,12 @@ A realistic SOC environment built in VirtualBox where I'm learning to:
 | 2 | Security Onion | ✅ Complete | 100% |
 | 3 | Splunk SIEM | ✅ Complete | 100% |
 | 4 | Wazuh EDR | ✅ Complete | 100% |
-| 5 | Advanced Features | 🔄 In Progress | 0% |
+| 4 | Wazuh EDR | 🔄 In Progress | 50% |
+| 5 | Advanced Features | ⏳ Planned | 0% |
 
 
 
-**Last Updated**: 21/12/2025
+**Last Updated**: 11/01/2026
 
 
 
