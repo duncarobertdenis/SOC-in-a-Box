@@ -157,6 +157,32 @@
 
 
 
+## Phase 5: Advanced Features 🔄
+
+
+
+
+- [ ] Tune Suricata with real traffic
+
+- [ ] Create correlation rules in Splunk
+
+- [ ] Build comprehensive dashboards
+
+- [ ] Test incident response workflows
+
+- [ ] Simulate attack scenarios
+
+- [ ] Document lessons learned
+
+
+
+**In Progress**
+
+
+
+---
+
+
 ## Issues & Solutions Discovered
 
 
