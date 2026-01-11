@@ -207,7 +207,7 @@
 
 
 
-1. Add SPAN port configuration (traffic mirroring)
+1. Microsoft Defender for Endpoint
 
 2. Tune Suricata with real traffic
 
@@ -219,7 +219,7 @@
 
 
 
-**Last Updated**: 21.12.2025
+**Last Updated**: 11.01.2026
 
 **Overall Completion**: ~90%
 
