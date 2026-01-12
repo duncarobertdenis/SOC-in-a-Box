@@ -136,9 +136,9 @@
 
 - [x] Onboard Windows VM using local script
 
-- [x] Generate test detections
+- [x] Generate test detection
 
-- [ ] Investigated the generated alert
+- [x] Investigated the generated alert
 
 - [ ] Tested response actions on the device
 
