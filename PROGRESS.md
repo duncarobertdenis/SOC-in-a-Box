@@ -140,7 +140,7 @@
 
 - [x] Investigated the generated alert
 
-- [ ] Tested response actions on the device
+- [x] Tested response actions on the device
 
 
 
